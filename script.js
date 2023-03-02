@@ -3,7 +3,7 @@
 
 
 let weatherObjectCallsApiByItself = {
-    apikey : "238e764a3d2fc845d2c61b2245e4e659",
+    //apikey : "input your api key here",
     city: "New Delhi",
     temperature: 40,
     fetchWeather: function(city) {
